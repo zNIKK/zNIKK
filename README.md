@@ -33,5 +33,5 @@
 
 - 😃 17 Anos
 - 📚 Estou estudando JavaScript.
-- ⏳ No futuro quero se tornar um programador Full-Stack.
+- ⏳ No futuro quero me tornar um programador Full-Stack.
 - 🤷‍♂️ Ele/Dele.
