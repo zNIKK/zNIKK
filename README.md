@@ -1,21 +1,24 @@
-![5rbjq4](https://user-images.githubusercontent.com/92119625/138343200-2ab6e2f0-a565-4a3b-b246-b0544f8f0038.gif)
+<img align="left" width="150" height="150" src="https://media.giphy.com/media/6Fy1SaMmEBNTEjN8CB/giphy.gif">    
 
+## Oieeee! Eu sou o Nicolas Gandolfi
 
-## Olá! Eu sou o Nicolas Gandolfi 👋
-
-<div align="center" style=text-align: "center"; display: "inline_block";>
+<div style=text-align: "center"; display: "inline_block";>
   <img hidth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   <img hidth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img hidth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img hidth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 <br>
+<br>
+
 <div align="center">
   <a href="https://github.com/zNIKK">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zNIKK&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNIKK&layout=compact&langs_count=7&theme=radical"/>
   </a>
+  
 </div>
+
 <br>
 
 <div align="center"> 
