@@ -1,4 +1,4 @@
-<img align="right" width="150" height="150" src="https://media.giphy.com/media/6Fy1SaMmEBNTEjN8CB/giphy.gif">    
+<img align="right" width="120" height="120" src="https://media.giphy.com/media/6Fy1SaMmEBNTEjN8CB/giphy.gif">    
 
 ## Oieeee! Eu sou o Nicolas Gandolfi
 
