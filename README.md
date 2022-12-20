@@ -1,6 +1,6 @@
 <img align="right" width="120" height="120" src="https://media.giphy.com/media/6Fy1SaMmEBNTEjN8CB/giphy.gif">    
 
-## Oieeee! Eu sou o Nicolas Gandolfi
+## Olá! Eu sou o Nicolas Gandolfi
 
 <div style=text-align: "center"; display: "inline_block";>
   <img hidth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
