@@ -39,3 +39,9 @@
 
 - 😃 18 years Old
 - 📚 Actullity learning React / Redux / Vue.js.
+
+Projects:
+
+E-commerce Page | https://ecommerceproduct.vercel.app
+Order summary component | https://ordersummarycomponent-eta.vercel.app/?#
+Memory Game | HTML, CSS, JS | https://jogodamemoria-nu.vercel.app
