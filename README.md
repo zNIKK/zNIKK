@@ -42,6 +42,8 @@
 
 Projects:
 
-E-commerce Page | https://ecommerceproduct.vercel.app
-Order summary component | https://ordersummarycomponent-eta.vercel.app/?#
-Memory Game | HTML, CSS, JS | https://jogodamemoria-nu.vercel.app
+- E-commerce Page | https://ecommerceproduct.vercel.app
+
+- Order summary component | https://ordersummarycomponent-eta.vercel.app/?#
+
+- Memory Game | HTML, CSS, JS | https://jogodamemoria-nu.vercel.app
