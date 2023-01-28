@@ -38,7 +38,7 @@
 ##
 
 - 😃 18 years Old
-- 📚 Actullity learning React / Redux / Vue.js.
+- 📚 Actuality learning React / Redux / Vue.js.
 
 Projects:
 
