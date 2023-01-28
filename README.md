@@ -1,6 +1,6 @@
 <img align="right" width="120" height="120" src="https://media.giphy.com/media/6Fy1SaMmEBNTEjN8CB/giphy.gif">    
 
-## Olá! Eu sou o Nicolas Gandolfi
+## Hello There! I'm Nicolas Gandolfi
 
 <div style=text-align: "center"; display: "inline_block";>
   <img hidth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -37,7 +37,5 @@
 
 ##
 
-- 😃 18 Anos
-- 📚 Estou estudando JavaScript.
-- ⏳ No futuro quero me tornar um programador Full-Stack.
-- 🤷‍♂️ Ele/Dele.
+- 😃 18 years Old
+- 📚 Actullity learning React / Redux / Vue.js.
