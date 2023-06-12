@@ -42,8 +42,8 @@
 
 Projects:
 
-- E-commerce Page | https://ecommerceproduct.vercel.app
-
-- Order summary component | https://ordersummarycomponent-eta.vercel.app/?#
+- E-commerce Page | znikk.github.io/Ecommerce-React/
 
 - Memory Game | HTML, CSS, JS | https://jogodamemoria-nu.vercel.app
+
+- To Do List | NodeJS, REACT.js | https://znikk.github.io/To-do-List/
