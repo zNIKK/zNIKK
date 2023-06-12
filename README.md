@@ -42,7 +42,7 @@
 
 Projects:
 
-- E-commerce Page | znikk.github.io/Ecommerce-React/
+- E-commerce Page | https://znikk.github.io/Ecommerce-React/
 
 - Memory Game | HTML, CSS, JS | https://jogodamemoria-nu.vercel.app
 
