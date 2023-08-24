@@ -1,7 +1,6 @@
 <h1 align="center">Olá 👋, Eu sou Nicolas Gandolfi</h1>
 <h3 align="center">Desenvolvedor FullStack. Estudei Python há 1 ano, atualmente estudo JavaScript, Node.js, Next.js, TypeScript, DataBases, Prisma, nest.js e React</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=znikk" alt="znikk" /></a> </p>
 
 - 🔭 Projeto site E-Commerce **https://znikk.github.io/Ecommerce-React/**
 
