@@ -3,8 +3,7 @@
 <h1 align="left">Olá 👋, Eu sou Nicolas Gandolfi</h1>
 
 <br></br>
-<br></br>
-<br></br>
+
 <div align: center>
   
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=znikk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="znikk" /></p>
