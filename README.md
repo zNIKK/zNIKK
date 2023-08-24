@@ -1,5 +1,4 @@
 <h1 align="center">Olá 👋, Eu sou Nicolas Gandolfi</h1>
-<h3 align="center">Desenvolvedor FullStack. Estudei Python há 1 ano, atualmente estudo JavaScript, Node.js, Next.js, TypeScript, DataBases, Prisma, nest.js e React</h3>
 
 <div align: center>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=znikk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="znikk" /></p>
