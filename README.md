@@ -1,4 +1,6 @@
-<h1 align="center">Olá 👋, Eu sou Nicolas Gandolfi</h1>
+<h1 align="left">Olá 👋, Eu sou Nicolas Gandolfi</h1>
+
+<img align="right" width="120" height="120" src="https://media.giphy.com/media/6Fy1SaMmEBNTEjN8CB/giphy.gif">    
 
 <div align: center>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=znikk&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="znikk" /></p>
