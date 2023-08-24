@@ -1,9 +1,11 @@
 <h1 align="center">Olá 👋, Eu sou Nicolas Gandolfi</h1>
 <h3 align="center">Desenvolvedor FullStack. Estudei Python há 1 ano, atualmente estudo JavaScript, Node.js, Next.js, TypeScript, DataBases, Prisma, nest.js e React</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=znikk&show_icons=true&locale=en&layout=compact" alt="znikk" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=znikk&show_icons=true&locale=en" alt="znikk" /></p>
+<div align: center>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=znikk&show_icons=true&locale=en&layout=compact" alt="znikk" /></p>
+  
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=znikk&show_icons=true&locale=en" alt="znikk" /></p>
+</div>
 
 - 🔭 Projeto site E-Commerce **https://znikk.github.io/Ecommerce-React/**
 
