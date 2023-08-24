@@ -7,15 +7,17 @@
 
 - 🔭 Projeto site E-Commerce **https://znikk.github.io/Ecommerce-React/**
 
-- 🌱 Eu estou atualmente estudando **Next.js**
-
 - 👯 Projeto Jogo da Memória **https://jogodamemoria-nu.vercel.app**
 
 - 🤝 Projeto To-Do-List **https://znikk.github.io/To-do-List/**
 
 - 📫 Como entrar em contato **nicolas.gandolfi11@gmail.com**
 
+- 🌱 Eu estou atualmente estudando **Next.js**
+  
 <h3 align="left">Entre em contato comigo:</h3>
+
+Email: <a>nicolas.gandolfi11@gmail.com</a>
 <p align="center">
   <a href="https://www.youtube.com/channel/UCNApxbcgWHv-aS9n-WDhRLA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/niickinn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
