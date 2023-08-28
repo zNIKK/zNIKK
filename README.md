@@ -18,7 +18,7 @@
 
 - 🌱 Eu estou atualmente estudando **Next.js**
   
-<h3 align="left">Entre em contato comigo:</h3>
+<h3 align="center">Entre em contato comigo:</h3>
 
 Email: <a>nicolas.gandolfi11@gmail.com</a>
 <p align="center">
